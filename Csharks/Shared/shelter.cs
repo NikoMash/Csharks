@@ -12,6 +12,6 @@ namespace Csharks.Shared
     {
         public ObjectId Id { get; set; }
         public geometry? Geometry { get; set; }
-        public properties? Properties { get; set; }
+        public Properties? Properties { get; set; }
     }
 }

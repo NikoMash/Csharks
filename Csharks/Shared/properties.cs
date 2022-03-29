@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Csharks.Shared
 {
-    public class properties
+    public class Properties
     //Defining members
     {
         public string cvr_navn, navn, beskrivelse, lang_beskrivelse, handicap, vejnavn, postnr_by, husnr, postnr;
@@ -14,13 +14,13 @@ namespace Csharks.Shared
         public int antal_pl;
 
         //constructor 
-        public properties()
+        public Properties()
         {
 
         }
 
         //constructor 
-        public properties(string cn, string n, string b, string lb, string h, string vn, string pnb, char kv, string hn, int ap, string pn)
+        public Properties(string cn, string n, string b, string lb, string h, string vn, string pnb, char kv, string hn, int ap, string pn)
         {
             cvr_navn = cn;
             navn = n;

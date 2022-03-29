@@ -8,10 +8,19 @@
 <body>
     <h1>Shelter booking</h1>
     <p>Velkommen</p>  
-   
+   <ul>
+        @foreach (var shelters in shelterdata)
+            {
+                <tr>
+                    <td>@shelters.Id</td>
+                    <td>@shelters.Geometry</td>
+                    <td>@shelters.Properties</td>
+                </tr>
+            }
+   </ul>
 </body>
 @code {
-    private Shelter[] shelterdata =  Array.Empty<Shelter>();
+    private Shelter[] shelterdata = Array.Empty<Shelter>();
    
     protected override async Task OnInitializedAsync()
     {

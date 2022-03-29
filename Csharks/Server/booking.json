@@ -1,3673 +1,3810 @@
-[{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee03"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1138908206156,
-        56.1402035054648
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelterplads i Stavtrup",
-    "beskrivels": null,
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee04"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2589470339579,
-        56.0626469793801
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fløjstrup Strand",
-    "beskrivels": "Fløjstrup strand",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee05"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2021113413482,
-        56.2020197125691
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Mollerup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via Friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee06"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2635415784519,
-        56.0228658740385
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Norsminde Lystbådehavn                            ",
-    "beskrivels": "                                                                                                                                                                                                                                                              ",
-    "lang_beskr": null,
-    "kontak_ved": "miljoe@odder.dk, 87803333                 ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee07"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1309511227733,
-        56.1681800297214
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Skjoldhøjkilen",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee08"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2597524932869,
-        56.0225919258808
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Norsminde kajakklub                               ",
-    "beskrivels": "                                                                                                                                                                                                                                                              ",
-    "lang_beskr": "Parkeringsplads og faciliteter ejes af Norsminde Kajakklub.",
-    "kontak_ved": "miljoe@odder.dk, 87803333                 ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee09"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        9.96761818216928,
-        56.1286025646837
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fugletårn ved Tåstrup Sø                          ",
-    "beskrivels": "<strong>Nyd stien gennem sumpskoven ud til fugletårnet, hvorfra du kan opleve et rigt fugleliv</strong>                                                                                                                                                       ",
-    "lang_beskr": "Fugletårnet ved Tåstrup Sø er placeret på kanten af selve Tåstrup Sø. Fugletårnet er placeret i et Natura2000 område. Tårnet er placeret for enden af en lang gangbro, der snor sig ud igennem et sumpet område. \r\n\r\nDet er muligt at køre til tårnet fra Stjær-siden eller fra Lillering-siden og det er muligt at parkere på en lille parkeringsplads ved Stenskovvej/Bøgebakken. Fra P-pladsen er der en ca. 250 meter afmærket gåtur til fugletårnet – hvoraf ca. halvdelen er på en gangbro ud gennem et meget fugtigt og sumpet område. \r\n\r\nFra tårnet er der udsigt over en stor rørskov med selve Tåstrup Sø i baggrunden. I tårnet er der en fin illustrativ oversigt over de fugle, man forventelig kan se og høre i området – ligesom der langs gangbroen er placeret infotavler, der fortæller om de fugle man kan se og høre i området. \r\n\r\nEt afmærket spor i landskabet – sporet ved Storring, Søballe og Stjær – passerer forbi P-pladsen ved Stenskovvej – Bøgebakken. I umiddelbar nærhed af tårnet er Stenskoven, der",
-    "kontak_ved": "vtd@skanderborg.dk, 87 94 70 00              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee0a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.3058187109953,
-        56.2533536780254
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelterplads Skødstrup Søndersø                   ",
-    "beskrivels": "Shelterplads med 2 shelters og bålplads                                                                                                                                                                                                                       ",
-    "lang_beskr": "Shelterplads med 2 shelters med hver plads til 4-6 personer, beliggende i den sydlige ende af Skødstrup. Pladsen har er stor græsareal og en mindre bålplads, og ligger i nærheden af Skødstrup Søndersø. Reservation er ikke muligt.",
-    "kontak_ved": ", ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee0b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2483338161142,
-        56.0862199537958
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Moesgård Strand - Sdr. Strandmark",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee0c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.224552929793,
-        56.1213380129748
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Ballehage",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee0d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2673640974013,
-        56.0519769513015
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter ved Mariendal Strand",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee0e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1832491190344,
-        56.1868089835271
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter på Vestereng",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee0f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.220276878772,
-        56.2136039921625
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelterplads ved Egå Engsø¸ - fem stk.",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee10"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2301761302999,
-        56.2392579795894
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Madpakkehus i Æblehaven",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee11"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2302168695005,
-        56.1135680376493
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Dagshelter i Hørhaven",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee12"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.227179945693,
-        56.114670007543
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Hørhaven i skoven",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee13"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.203216180214,
-        56.1373139478907
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Havreballe Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee14"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2444149091573,
-        56.0883729513367
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter ved Moesgård Strand",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee15"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2336338988802,
-        56.2333640243483
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålhus i Lystrup Sønderskov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee16"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2294949927686,
-        56.1128799746459
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Hørhaven på bakken",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee17"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1156518853714,
-        56.1000320235091
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Tranbjerg Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee18"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2476941660947,
-        56.0931360303849
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Moesgård Strand - Ndr. Strandmark",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee19"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2391549371805,
-        56.0953700414748
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålhytte i Skåde Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee1a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1422530421788,
-        56.1504079630261
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Gjellerup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee1b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1694600340565,
-        56.2354309658486
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Lisbjerg gammel skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee1c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1975061753891,
-        56.0665749345383
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Vilhelmsborg Skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee1d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2277139371157,
-        56.0974080157968
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Moesgård Skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee1e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2620486526636,
-        56.0234537966265
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Norsminde Motorbådshavn                           ",
-    "beskrivels": "                                                                                                                                                                                                                                                              ",
-    "lang_beskr": null,
-    "kontak_ved": "miljoe@odder.dk, 87803333                 ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee1f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2483338161142,
-        56.0862199537958
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Moesgård Strand - Sdr. Strandmark",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee20"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.224552929793,
-        56.1213380129748
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Ballehage",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee21"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2596320315276,
-        56.0591139216058
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Fløjstrup Skov - Syd",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee22"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2663910771665,
-        56.0532499819422
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads på Mariendal Strand",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee23"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2235341061932,
-        56.1768440349201
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads Warming på Tumlepladsen i Riis Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee24"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2360038000048,
-        56.1090689698444
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads på stranden ved Blommehaven Camping",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee25"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2529058669213,
-        56.0809650119935
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Fløjstrup Skov - Nord",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee26"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2240111448585,
-        56.1769579865189
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålhus på Tumlepladsen i Riis Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee27"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2230888269791,
-        56.1765800100935
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads Daus på Tumlepladsen i Riis Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee28"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2593249473263,
-        56.0609710513636
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Digevejen i Fløjstrup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee29"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2925868827889,
-        56.2584939831465
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Skødstrup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee2a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1680768234992,
-        56.1642250006955
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads i Præstevangen",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee2b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2365550588284,
-        56.101080938996
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads ved Ørnereden",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee2c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1342959124348,
-        56.0811179811877
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålhytte i Østerby Skov, Tranbjerg",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee2d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1711688893374,
-        56.2270790189935
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads Kimbrerdalen i Lisbjerg",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee2e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1618161804432,
-        56.1841560048164
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Brendstrup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee2f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1717740730878,
-        56.2268179774504
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelterplads i Lisbjerg ny skov - fem stk.",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee30"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2614809601214,
-        56.0233979764235
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnesspark ved Norsminde Havn",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee31"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.117077090431,
-        56.1487229865637
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Brabrandstien",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee32"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1970421556477,
-        56.0481300079892
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Egelund Idrætsanlæg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee33"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1932189112236,
-        56.1125739277396
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Lyseng Idrætsanlæg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee34"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1292760776396,
-        56.1194319172502
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Bøgelund Idrætsanlæg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee35"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2490401044581,
-        56.2446579510025
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Blåbærhaven",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee36"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1706209836125,
-        56.1305259575945
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Bygvangs Alle",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee37"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1956978730905,
-        56.1342890098882
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads i Havreballe Skov",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee38"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1430337762823,
-        56.0886169990426
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Laurbærparken i Tranbjerg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee39"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1188411187546,
-        56.1394860391647
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Stautrup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee3a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1483121375799,
-        56.125740977325
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Vårkærparken",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee3b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1272049901218,
-        56.1194079820532
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnesspark ved Bøgeskov Idrætsanlæg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee3c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2817199807568,
-        56.2018139702381
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnesspark ved Åkrogen",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee3d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1646889166585,
-        56.1520189874351
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Åby Park",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee3e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.0139659792115,
-        56.1334079576077
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads i Gl. Harlev",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee3f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2211581573093,
-        56.1700159768297
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Riis Skov",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee40"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1731038946315,
-        56.1048409545213
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads i Håndværkerparken",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee41"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2109549794301,
-        56.1388299802944
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Tangkrogen",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee42"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2222400108273,
-        56.1045269508307
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads i Lerdalen",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee43"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.208920005423,
-        56.1927049850758
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Rolf Haugstrups Plads",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee44"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2038551476776,
-        56.1290519993549
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Mindeparken",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee45"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1516151235112,
-        56.2509530381011
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads i Trige",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee46"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1315041365405,
-        56.1679779599322
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Skjoldhøjkilen",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee47"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.0842411945098,
-        56.0466100002629
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads ved Solbjerg Skov",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee48"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1900070649896,
-        56.1473089679248
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Frederiksbjerg Bypark",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee49"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2892899915602,
-        56.2126560210532
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads ved Egå Marina",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee4a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.22752805596,
-        56.111279053545
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Gåsehaven",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee4b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.080191093471,
-        56.0385410073299
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads ved Lundbjergvang i Solbjerg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee4c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.0277291302258,
-        56.2104809826647
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads ved Sabro idrætsanlæg",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee4d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        9.99027399306661,
-        56.1456399661628
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fitnessplads Harlev Bypark",
-    "beskrivels": null,
-    "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee4e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.133973025078,
-        56.1692040475574
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads Alfa i Skjoldhøjkilen",
-    "beskrivels": "",
-    "lang_beskr": "Bålplads kan ikke bookes, se mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee4f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1249920294745,
-        56.1699939200372
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålplads Gamma i Skjoldhøjkilen",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads kan ikke bookes, se mere på friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee50"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2030631451557,
-        56.1370110715311
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bålhytte i Havreballe Skov",
-    "beskrivels": null,
-    "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee51"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2700099821534,
-        56.0384650371742
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Ajstrup Strand Nord",
-    "beskrivels": "Ajstrup Strand, Nord",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee52"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2473619519284,
-        56.0868280071144
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Moesgård Strand",
-    "beskrivels": "Moesgård Strand, Strandskovvej 30",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee53"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2829269759843,
-        56.2044999713844
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Åkrogen Nord",
-    "beskrivels": "Åkrogs Strandvej 65",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee54"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2821440520045,
-        56.2027359710326
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Åkrogen ved bussens endestation",
-    "beskrivels": "Åkrogs Strandvej 46",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee55"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2201170250764,
-        56.2132679661498
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Ved shelterplads Egå Engsø",
-    "beskrivels": "Viengevej 7A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee56"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.0882939792443,
-        56.1475330214322
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Årslev Engsø",
-    "beskrivels": "Søskovvej 4",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee57"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1997489374365,
-        56.155635046621
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Mølleparken",
-    "beskrivels": "Møllegade 1",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee58"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2150989701223,
-        56.1676500147255
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Toilet i Nordre Kapel",
-    "beskrivels": "Kirkegårdsvej 26",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee59"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2200389470303,
-        56.1203920452908
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Krudthuset i Dyrehaven",
-    "beskrivels": "Ørneredevej 6",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee5a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2049728415986,
-        56.1508933245327
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Banegårdspladsen 4A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee5b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2277074507787,
-        56.1676183188484
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Jette Tikjøbs Plads 13",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee5c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2060707726018,
-        56.1564959551619
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Åboulevarden 43A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee5d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.23680804733,
-        56.1012269967889
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Ørnereden",
-    "beskrivels": "Ørneredevej 55",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee5e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2658959428027,
-        56.0532440118963
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Mariendal Strand",
-    "beskrivels": "Ørnevænget",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee5f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2270439525298,
-        56.1130179933929
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Hørhaven",
-    "beskrivels": "Ørneredevej 23",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee60"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2448739568329,
-        56.0885569832609
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Moesgård Strand, H/D åbent sommer 1/5 - 1/10",
-    "beskrivels": "Moesgård Strand, Strandskovvej 10",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee61"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2065879051222,
-        56.1529686001867
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Amaliegade 27",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee62"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2132608579205,
-        56.1565801887913
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Skibbrogade 1",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee63"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2067385353296,
-        56.1553770821887
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Telefontorvet 5",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee64"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2000512899901,
-        56.1512974158673
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Frederiks Alle 20A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee65"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1992600998041,
-        56.1567976916114
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Vester Alle 18",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 7,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee66"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2072896917043,
-        56.1395168048463
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Fintenborg Plads",
-    "beskrivels": "Strandvejen 17",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee67"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.198774350941,
-        56.1449506469465
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Ingerslevs Boulevard 2G",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee68"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2184201813371,
-        56.1764277528191
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Marienlunds Alle 25",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee69"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1993202916987,
-        56.1582438315547
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Vesterbro Torv 13A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee6a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.190173503342,
-        56.1436499466798
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Harald Jensens Plads 8",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee6b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1693271043838,
-        56.1555660231437
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": null,
-    "beskrivels": "Silkeborgvej 224",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee6c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2237689760794,
-        56.1209019865908
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Ballehage",
-    "beskrivels": "Ballehage, Ørneredevej 7A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee6d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.269387941257,
-        56.0362850296534
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Ajstrup Strand Syd",
-    "beskrivels": "Ajstrup Strand, Syd",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee6e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2652959412815,
-        56.0286920149849
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Strandbovej, Norsminde Strand",
-    "beskrivels": "Strandbovej",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee6f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2476129431364,
-        56.1909379693283
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Bellevue Strand",
-    "beskrivels": "Fortevej 113",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee70"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2138730333734,
-        56.1279220161524
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Toilet ved Hotel Marselis",
-    "beskrivels": "Strandvejen 23",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee71"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1722670199982,
-        56.2269280268317
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Ved shelterplads i Lisbjerg ny skov",
-    "beskrivels": "Elevvej 23",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee72"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1855500651936,
-        56.1629670428822
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Botanisk Have - Amfiscenen",
-    "beskrivels": "Eugen Warmings Vej 12",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee73"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2072969568881,
-        56.1393209797572
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Tangkrogen",
-    "beskrivels": "Strandvejen 19",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee74"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2031489799768,
-        56.1302379860513
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Mindeparken",
-    "beskrivels": "Carl Nielsens Vej 15",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee75"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2112860480969,
-        56.1287979839659
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Mindeparken v. Oddervej",
-    "beskrivels": "Oddervej 8",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee76"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2058920651712,
-        56.1653269951779
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Vennelystparken",
-    "beskrivels": "Vennelyst Boulevard 7",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 4,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee77"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1937009400838,
-        56.1583770191905
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Botanisk have, ved Den Gamle By",
-    "beskrivels": "Vesterbrogade 38A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee78"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2074909803927,
-        56.1458360123904
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Skanseparken",
-    "beskrivels": "Heibergsgade 31",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee79"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.178624956703,
-        56.1599470462325
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Toilet i Vestre Store Kapel",
-    "beskrivels": "Viborgvej 47A",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee7a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2309349992401,
-        56.1765669963834
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Den Permanente",
-    "beskrivels": "Salonvejen 1",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Handicapegnet",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee7b"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2056683318356,
-        56.1586944950674
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Klostertorvet",
-    "beskrivels": "Klostergade 52",
-    "lang_beskr": null,
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee7c"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1978006841125,
-        56.0647618043221
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Vilhelmsborg shelter                              ",
-    "beskrivels": "Inde i skoven lidt fra stien.                                                                                                                                                                                                                                 ",
-    "lang_beskr": "To store sheltre med bålplads. Ingen vand eller toilet. Smukt placeret under bøgetræer. Ejet af spejderne \"Erik Den Røde\"",
-    "kontak_ved": ", ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 8,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee7d"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2027370112491,
-        56.206293019122
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelter i Mollerup Skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": null,
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee7e"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1141968502786,
-        56.0959056907147
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Shelterplads i Tranbjerg Skov",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee7f"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.0209340226472,
-        56.1283319644944
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Åbo Skov, 2 shelters",
-    "beskrivels": null,
-    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
-    "kontak_ved": null,
-    "handicap": "Ukendt",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee80"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2841913861593,
-        56.2118478876341
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Egå Marina og Sølystskolen             ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "Århus 1900 Orientering, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee81"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2956714384124,
-        56.2214055477808
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Egå og Skæring, Skæring Skole          ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "Århus 1900 Orientering, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 2,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee82"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1926747157609,
-        56.1605625561614
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Botanisk Have i Århus                  ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "Kan du finde vej i Botanisk Have i Århus? Print kortet - og så af sted. Du bestemmer selv tempoet. 'Find vej i Danmark' er for alle: hurtigløbere, stavgængere, skoleklasser og familier med klapvogn. Find lignende tilbud mange andre steder i Danmark på www.findveji.dk",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee83"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2275443473276,
-        56.1173027068939
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Hørhaven, Århus                        ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "<strong>Kan du finde vej i Hørhaven, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 5,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee84"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2190134364682,
-        56.1765926501708
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Risskov, Århus                         ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "<strong>Kan du finde vej i Risskov, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 6,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee85"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1113694368313,
-        56.1730516346287
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Hasle Bakker, Århus                    ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "<strong>Kan du finde vej i Hasle Bakker, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, og Århus 1900 Orientering, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee86"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2045582361749,
-        56.1504842236292
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Aarhus Midtby - Lydglimt fra besættelse",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "Kan dy finde vej i Aarhus Midtby - Lydglimt fra besættelsen?\r\n\r\nPrint kortet - og så af sted. Du bestemmer selv tempoet.\r\n'Find vej i Danmark' er for alle: hurtigløbere, stavgængere, skoleklasser og familier med klapvogn.\r\n\r\nFind lignende tilbud mange andre steder i Danmark på www.findveji.dk",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 9,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee87"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.0285864069819,
-        56.2286552321543
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Parkering nær Nilles Kro                          ",
-    "beskrivels": "                                                                                                                                                                                                                                                              ",
-    "lang_beskr": "",
-    "kontak_ved": "favrskov@favrskov.dk, 89641010                 ",
-    "handicap": "Handicapegnet",
-    "antal_pl": 1,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee88"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2108497194722,
-        56.1562309531018
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Aarhus Midtby                          ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "<strong>Kan du finde vej i Aarhus Midtby? <br><br></strong>Her tilbydes en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<p><span style=\"font-size: medium;\"><strong><br></strong></span></p>Kend Aarhus er kommet til verden pga. midler fra Aktiv Århus Puljen.<br>\r\n<strong></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 3,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee89"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.2366889043199,
-        56.101531660979
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Ørnereden, Århus                       ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "<strong>Kan du finde vej i Ørnereden, Århus? </strong><br>\r\n<br>\r\nOrienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-},{
-  "_id": {
-    "$oid": "62416d01118e57ddf0abee8a"
-  },
-  "type": "Feature",
-  "geometry": {
-    "type": "MultiPoint",
-    "coordinates": [
-      [
-        10.1943844847088,
-        56.1335680743563
-      ]
-    ]
-  },
-  "properties": {
-    "cvr_navn": "Aarhus Kommune",
-    "navn": "Find vej i Mindeparken, Århus                     ",
-    "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
-    "lang_beskr": "<strong>Kan du finde vej i Mindeparken, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
-    "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
-    "handicap": "Ikke handicapegnet",
-    "antal_pl": 10,
-    "vejnavn": null,
-    "husnr": null,
-    "postnr": null,
-    "postnr_by": null
-  }
-}]
+[
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee03"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1138908206156,
+          56.1402035054648
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelterplads i Stavtrup",
+      "beskrivels": null,
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee04"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2589470339579,
+          56.0626469793801
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fløjstrup Strand",
+      "beskrivels": "Fløjstrup strand",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee05"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2021113413482,
+          56.2020197125691
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Mollerup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via Friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee06"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2635415784519,
+          56.0228658740385
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Norsminde Lystbådehavn                            ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "lang_beskr": null,
+      "kontak_ved": "miljoe@odder.dk, 87803333                 ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee07"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1309511227733,
+          56.1681800297214
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Skjoldhøjkilen",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee08"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2597524932869,
+          56.0225919258808
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Norsminde kajakklub                               ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "lang_beskr": "Parkeringsplads og faciliteter ejes af Norsminde Kajakklub.",
+      "kontak_ved": "miljoe@odder.dk, 87803333                 ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee09"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          9.96761818216928,
+          56.1286025646837
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fugletårn ved Tåstrup Sø                          ",
+      "beskrivels": "<strong>Nyd stien gennem sumpskoven ud til fugletårnet, hvorfra du kan opleve et rigt fugleliv</strong>                                                                                                                                                       ",
+      "lang_beskr": "Fugletårnet ved Tåstrup Sø er placeret på kanten af selve Tåstrup Sø. Fugletårnet er placeret i et Natura2000 område. Tårnet er placeret for enden af en lang gangbro, der snor sig ud igennem et sumpet område. \r\n\r\nDet er muligt at køre til tårnet fra Stjær-siden eller fra Lillering-siden og det er muligt at parkere på en lille parkeringsplads ved Stenskovvej/Bøgebakken. Fra P-pladsen er der en ca. 250 meter afmærket gåtur til fugletårnet – hvoraf ca. halvdelen er på en gangbro ud gennem et meget fugtigt og sumpet område. \r\n\r\nFra tårnet er der udsigt over en stor rørskov med selve Tåstrup Sø i baggrunden. I tårnet er der en fin illustrativ oversigt over de fugle, man forventelig kan se og høre i området – ligesom der langs gangbroen er placeret infotavler, der fortæller om de fugle man kan se og høre i området. \r\n\r\nEt afmærket spor i landskabet – sporet ved Storring, Søballe og Stjær – passerer forbi P-pladsen ved Stenskovvej – Bøgebakken. I umiddelbar nærhed af tårnet er Stenskoven, der",
+      "kontak_ved": "vtd@skanderborg.dk, 87 94 70 00              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee0a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.3058187109953,
+          56.2533536780254
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelterplads Skødstrup Søndersø                   ",
+      "beskrivels": "Shelterplads med 2 shelters og bålplads                                                                                                                                                                                                                       ",
+      "lang_beskr": "Shelterplads med 2 shelters med hver plads til 4-6 personer, beliggende i den sydlige ende af Skødstrup. Pladsen har er stor græsareal og en mindre bålplads, og ligger i nærheden af Skødstrup Søndersø. Reservation er ikke muligt.",
+      "kontak_ved": ", ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee0b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2483338161142,
+          56.0862199537958
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Moesgård Strand - Sdr. Strandmark",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee0c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.224552929793,
+          56.1213380129748
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Ballehage",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee0d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2673640974013,
+          56.0519769513015
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter ved Mariendal Strand",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee0e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1832491190344,
+          56.1868089835271
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter på Vestereng",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee0f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.220276878772,
+          56.2136039921625
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelterplads ved Egå Engsø¸ - fem stk.",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee10"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2301761302999,
+          56.2392579795894
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Madpakkehus i Æblehaven",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee11"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2302168695005,
+          56.1135680376493
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Dagshelter i Hørhaven",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee12"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.227179945693,
+          56.114670007543
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Hørhaven i skoven",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee13"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.203216180214,
+          56.1373139478907
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Havreballe Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee14"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2444149091573,
+          56.0883729513367
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter ved Moesgård Strand",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee15"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2336338988802,
+          56.2333640243483
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålhus i Lystrup Sønderskov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee16"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2294949927686,
+          56.1128799746459
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Hørhaven på bakken",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee17"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1156518853714,
+          56.1000320235091
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Tranbjerg Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee18"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2476941660947,
+          56.0931360303849
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Moesgård Strand - Ndr. Strandmark",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee19"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2391549371805,
+          56.0953700414748
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålhytte i Skåde Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee1a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1422530421788,
+          56.1504079630261
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Gjellerup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee1b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1694600340565,
+          56.2354309658486
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Lisbjerg gammel skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee1c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1975061753891,
+          56.0665749345383
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Vilhelmsborg Skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee1d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2277139371157,
+          56.0974080157968
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Moesgård Skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee1e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2620486526636,
+          56.0234537966265
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Norsminde Motorbådshavn                           ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "lang_beskr": null,
+      "kontak_ved": "miljoe@odder.dk, 87803333                 ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee1f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2483338161142,
+          56.0862199537958
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Moesgård Strand - Sdr. Strandmark",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee20"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.224552929793,
+          56.1213380129748
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Ballehage",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee21"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2596320315276,
+          56.0591139216058
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Fløjstrup Skov - Syd",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee22"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2663910771665,
+          56.0532499819422
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads på Mariendal Strand",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee23"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2235341061932,
+          56.1768440349201
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads Warming på Tumlepladsen i Riis Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee24"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2360038000048,
+          56.1090689698444
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads på stranden ved Blommehaven Camping",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee25"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2529058669213,
+          56.0809650119935
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Fløjstrup Skov - Nord",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee26"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2240111448585,
+          56.1769579865189
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålhus på Tumlepladsen i Riis Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee27"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2230888269791,
+          56.1765800100935
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads Daus på Tumlepladsen i Riis Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee28"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2593249473263,
+          56.0609710513636
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Digevejen i Fløjstrup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee29"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2925868827889,
+          56.2584939831465
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Skødstrup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee2a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1680768234992,
+          56.1642250006955
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads i Præstevangen",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee2b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2365550588284,
+          56.101080938996
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads ved Ørnereden",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee2c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1342959124348,
+          56.0811179811877
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålhytte i Østerby Skov, Tranbjerg",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee2d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1711688893374,
+          56.2270790189935
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads Kimbrerdalen i Lisbjerg",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee2e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1618161804432,
+          56.1841560048164
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Brendstrup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee2f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1717740730878,
+          56.2268179774504
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelterplads i Lisbjerg ny skov - fem stk.",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee30"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2614809601214,
+          56.0233979764235
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnesspark ved Norsminde Havn",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee31"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.117077090431,
+          56.1487229865637
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Brabrandstien",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee32"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1970421556477,
+          56.0481300079892
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Egelund Idrætsanlæg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee33"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1932189112236,
+          56.1125739277396
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Lyseng Idrætsanlæg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee34"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1292760776396,
+          56.1194319172502
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Bøgelund Idrætsanlæg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee35"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2490401044581,
+          56.2446579510025
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Blåbærhaven",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee36"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1706209836125,
+          56.1305259575945
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Bygvangs Alle",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee37"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1956978730905,
+          56.1342890098882
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads i Havreballe Skov",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee38"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1430337762823,
+          56.0886169990426
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Laurbærparken i Tranbjerg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee39"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1188411187546,
+          56.1394860391647
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Stautrup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee3a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1483121375799,
+          56.125740977325
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Vårkærparken",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee3b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1272049901218,
+          56.1194079820532
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnesspark ved Bøgeskov Idrætsanlæg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee3c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2817199807568,
+          56.2018139702381
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnesspark ved Åkrogen",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee3d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1646889166585,
+          56.1520189874351
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Åby Park",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee3e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0139659792115,
+          56.1334079576077
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads i Gl. Harlev",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee3f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2211581573093,
+          56.1700159768297
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Riis Skov",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee40"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1731038946315,
+          56.1048409545213
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads i Håndværkerparken",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee41"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2109549794301,
+          56.1388299802944
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Tangkrogen",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee42"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2222400108273,
+          56.1045269508307
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads i Lerdalen",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee43"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.208920005423,
+          56.1927049850758
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Rolf Haugstrups Plads",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee44"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2038551476776,
+          56.1290519993549
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Mindeparken",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee45"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1516151235112,
+          56.2509530381011
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads i Trige",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee46"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1315041365405,
+          56.1679779599322
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Skjoldhøjkilen",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee47"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0842411945098,
+          56.0466100002629
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads ved Solbjerg Skov",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee48"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1900070649896,
+          56.1473089679248
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Frederiksbjerg Bypark",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee49"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2892899915602,
+          56.2126560210532
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads ved Egå Marina",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee4a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.22752805596,
+          56.111279053545
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Gåsehaven",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee4b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.080191093471,
+          56.0385410073299
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads ved Lundbjergvang i Solbjerg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee4c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0277291302258,
+          56.2104809826647
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads ved Sabro idrætsanlæg",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee4d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          9.99027399306661,
+          56.1456399661628
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fitnessplads Harlev Bypark",
+      "beskrivels": null,
+      "lang_beskr": "Fitnessplads kan ikke bookes. Læs mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee4e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.133973025078,
+          56.1692040475574
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads Alfa i Skjoldhøjkilen",
+      "beskrivels": "",
+      "lang_beskr": "Bålplads kan ikke bookes, se mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee4f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1249920294745,
+          56.1699939200372
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålplads Gamma i Skjoldhøjkilen",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads kan ikke bookes, se mere på friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee50"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2030631451557,
+          56.1370110715311
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bålhytte i Havreballe Skov",
+      "beskrivels": null,
+      "lang_beskr": "Bålplads skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee51"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2700099821534,
+          56.0384650371742
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Ajstrup Strand Nord",
+      "beskrivels": "Ajstrup Strand, Nord",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee52"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2473619519284,
+          56.0868280071144
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Moesgård Strand",
+      "beskrivels": "Moesgård Strand, Strandskovvej 30",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee53"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2829269759843,
+          56.2044999713844
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Åkrogen Nord",
+      "beskrivels": "Åkrogs Strandvej 65",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee54"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2821440520045,
+          56.2027359710326
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Åkrogen ved bussens endestation",
+      "beskrivels": "Åkrogs Strandvej 46",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee55"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2201170250764,
+          56.2132679661498
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Ved shelterplads Egå Engsø",
+      "beskrivels": "Viengevej 7A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee56"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0882939792443,
+          56.1475330214322
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Årslev Engsø",
+      "beskrivels": "Søskovvej 4",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee57"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1997489374365,
+          56.155635046621
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Mølleparken",
+      "beskrivels": "Møllegade 1",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee58"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2150989701223,
+          56.1676500147255
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Toilet i Nordre Kapel",
+      "beskrivels": "Kirkegårdsvej 26",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee59"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2200389470303,
+          56.1203920452908
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Krudthuset i Dyrehaven",
+      "beskrivels": "Ørneredevej 6",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee5a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2049728415986,
+          56.1508933245327
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Banegårdspladsen 4A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee5b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2277074507787,
+          56.1676183188484
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Jette Tikjøbs Plads 13",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee5c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2060707726018,
+          56.1564959551619
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Åboulevarden 43A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee5d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.23680804733,
+          56.1012269967889
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Ørnereden",
+      "beskrivels": "Ørneredevej 55",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee5e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2658959428027,
+          56.0532440118963
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Mariendal Strand",
+      "beskrivels": "Ørnevænget",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee5f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2270439525298,
+          56.1130179933929
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Hørhaven",
+      "beskrivels": "Ørneredevej 23",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee60"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2448739568329,
+          56.0885569832609
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Moesgård Strand, H/D åbent sommer 1/5 - 1/10",
+      "beskrivels": "Moesgård Strand, Strandskovvej 10",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee61"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2065879051222,
+          56.1529686001867
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Amaliegade 27",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee62"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2132608579205,
+          56.1565801887913
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Skibbrogade 1",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee63"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2067385353296,
+          56.1553770821887
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Telefontorvet 5",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee64"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2000512899901,
+          56.1512974158673
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Frederiks Alle 20A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee65"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1992600998041,
+          56.1567976916114
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Vester Alle 18",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 7,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee66"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2072896917043,
+          56.1395168048463
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Fintenborg Plads",
+      "beskrivels": "Strandvejen 17",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee67"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.198774350941,
+          56.1449506469465
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Ingerslevs Boulevard 2G",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee68"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2184201813371,
+          56.1764277528191
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Marienlunds Alle 25",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee69"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1993202916987,
+          56.1582438315547
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Vesterbro Torv 13A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee6a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.190173503342,
+          56.1436499466798
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Harald Jensens Plads 8",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee6b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1693271043838,
+          56.1555660231437
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": null,
+      "beskrivels": "Silkeborgvej 224",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee6c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2237689760794,
+          56.1209019865908
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Ballehage",
+      "beskrivels": "Ballehage, Ørneredevej 7A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee6d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.269387941257,
+          56.0362850296534
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Ajstrup Strand Syd",
+      "beskrivels": "Ajstrup Strand, Syd",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee6e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2652959412815,
+          56.0286920149849
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Strandbovej, Norsminde Strand",
+      "beskrivels": "Strandbovej",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee6f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2476129431364,
+          56.1909379693283
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Bellevue Strand",
+      "beskrivels": "Fortevej 113",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee70"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2138730333734,
+          56.1279220161524
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Toilet ved Hotel Marselis",
+      "beskrivels": "Strandvejen 23",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee71"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1722670199982,
+          56.2269280268317
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Ved shelterplads i Lisbjerg ny skov",
+      "beskrivels": "Elevvej 23",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee72"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1855500651936,
+          56.1629670428822
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Botanisk Have - Amfiscenen",
+      "beskrivels": "Eugen Warmings Vej 12",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee73"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2072969568881,
+          56.1393209797572
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Tangkrogen",
+      "beskrivels": "Strandvejen 19",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee74"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2031489799768,
+          56.1302379860513
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Mindeparken",
+      "beskrivels": "Carl Nielsens Vej 15",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee75"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2112860480969,
+          56.1287979839659
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Mindeparken v. Oddervej",
+      "beskrivels": "Oddervej 8",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee76"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2058920651712,
+          56.1653269951779
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Vennelystparken",
+      "beskrivels": "Vennelyst Boulevard 7",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 4,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee77"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1937009400838,
+          56.1583770191905
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Botanisk have, ved Den Gamle By",
+      "beskrivels": "Vesterbrogade 38A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee78"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2074909803927,
+          56.1458360123904
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Skanseparken",
+      "beskrivels": "Heibergsgade 31",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee79"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.178624956703,
+          56.1599470462325
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Toilet i Vestre Store Kapel",
+      "beskrivels": "Viborgvej 47A",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee7a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2309349992401,
+          56.1765669963834
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Den Permanente",
+      "beskrivels": "Salonvejen 1",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Handicapegnet",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee7b"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2056683318356,
+          56.1586944950674
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Klostertorvet",
+      "beskrivels": "Klostergade 52",
+      "lang_beskr": null,
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee7c"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1978006841125,
+          56.0647618043221
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Vilhelmsborg shelter                              ",
+      "beskrivels": "Inde i skoven lidt fra stien.                                                                                                                                                                                                                                 ",
+      "lang_beskr": "To store sheltre med bålplads. Ingen vand eller toilet. Smukt placeret under bøgetræer. Ejet af spejderne \"Erik Den Røde\"",
+      "kontak_ved": ", ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 8,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee7d"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2027370112491,
+          56.206293019122
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelter i Mollerup Skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": null,
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee7e"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1141968502786,
+          56.0959056907147
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Shelterplads i Tranbjerg Skov",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee7f"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0209340226472,
+          56.1283319644944
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Åbo Skov, 2 shelters",
+      "beskrivels": null,
+      "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+      "kontak_ved": null,
+      "handicap": "Ukendt",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee80"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2841913861593,
+          56.2118478876341
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Egå Marina og Sølystskolen             ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "Århus 1900 Orientering, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee81"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2956714384124,
+          56.2214055477808
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Egå og Skæring, Skæring Skole          ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "Århus 1900 Orientering, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 2,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee82"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1926747157609,
+          56.1605625561614
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Botanisk Have i Århus                  ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "Kan du finde vej i Botanisk Have i Århus? Print kortet - og så af sted. Du bestemmer selv tempoet. 'Find vej i Danmark' er for alle: hurtigløbere, stavgængere, skoleklasser og familier med klapvogn. Find lignende tilbud mange andre steder i Danmark på www.findveji.dk",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee83"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2275443473276,
+          56.1173027068939
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Hørhaven, Århus                        ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "<strong>Kan du finde vej i Hørhaven, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 5,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee84"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2190134364682,
+          56.1765926501708
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Risskov, Århus                         ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "<strong>Kan du finde vej i Risskov, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 6,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee85"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1113694368313,
+          56.1730516346287
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Hasle Bakker, Århus                    ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "<strong>Kan du finde vej i Hasle Bakker, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, og Århus 1900 Orientering, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee86"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2045582361749,
+          56.1504842236292
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Aarhus Midtby - Lydglimt fra besættelse",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "Kan dy finde vej i Aarhus Midtby - Lydglimt fra besættelsen?\r\n\r\nPrint kortet - og så af sted. Du bestemmer selv tempoet.\r\n'Find vej i Danmark' er for alle: hurtigløbere, stavgængere, skoleklasser og familier med klapvogn.\r\n\r\nFind lignende tilbud mange andre steder i Danmark på www.findveji.dk",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 9,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee87"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.0285864069819,
+          56.2286552321543
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Parkering nær Nilles Kro                          ",
+      "beskrivels": "                                                                                                                                                                                                                                                              ",
+      "lang_beskr": "",
+      "kontak_ved": "favrskov@favrskov.dk, 89641010                 ",
+      "handicap": "Handicapegnet",
+      "antal_pl": 1,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee88"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2108497194722,
+          56.1562309531018
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Aarhus Midtby                          ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "<strong>Kan du finde vej i Aarhus Midtby? <br><br></strong>Her tilbydes en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<p><span style=\"font-size: medium;\"><strong><br></strong></span></p>Kend Aarhus er kommet til verden pga. midler fra Aktiv Århus Puljen.<br>\r\n<strong></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 3,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee89"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.2366889043199,
+          56.101531660979
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Ørnereden, Århus                       ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "<strong>Kan du finde vej i Ørnereden, Århus? </strong><br>\r\n<br>\r\nOrienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "62416d01118e57ddf0abee8a"
+    },
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [
+          10.1943844847088,
+          56.1335680743563
+        ]
+      ]
+    },
+    "properties": {
+      "cvr_navn": "Aarhus Kommune",
+      "navn": "Find vej i Mindeparken, Århus                     ",
+      "beskrivels": "’Find vej i …’ er et tilbud til alle om en sjov og spændende tur i det fri, hvor man finder poster i skoven, parken eller byen ud fra et kort.                                                                                                                ",
+      "lang_beskr": "<strong>Kan du finde vej i Mindeparken, Århus? <br>\r\n<br>\r\n</strong>Orienteringsklubben Pan, Århus, tilbyder en unik og gratis oplevelse i det fri for både familier med barnevogne, hurtigløbere, stavgængere og alle andre. <br>\r\n<br>\r\nFind poster ud fra et kort i <em>dit</em> tempo - alene eller sammen med andre.<br>\r\n<br>\r\nDu kan finde lignende tilbud mange andre steder i Danmark på <a href=\"http://www.findveji.dk\" target=\"_blank\">www.findveji.dk</a>.<br>\r\n<br>\r\n<strong><br></strong>",
+      "kontak_ved": "dof@do-f.dk, 43 26 27 40              ",
+      "handicap": "Ikke handicapegnet",
+      "antal_pl": 10,
+      "vejnavn": null,
+      "husnr": null,
+      "postnr": null,
+      "postnr_by": null
+    }
+  }
+]
