@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Csharks.Shared;
+using MongoDB.Bson;
 
 namespace Csharks.Shared
 {
-    public class shelter
+    public class Shelter
     {
-        public objectId id { get; set; }
+        public ObjectId Id { get; set; }
         public geometry? Geometry { get; set; }
         public properties? Properties { get; set; }
     }

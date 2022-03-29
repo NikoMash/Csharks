@@ -1,0 +1,21 @@
+﻿@page "/Shelter forside"
+@using Csharks;
+@using Csharks.Shared;
+@inject HttpClient Http
+<head>
+
+</head>
+<body>
+    <h1>Shelter booking</h1>
+    <p>Velkommen</p>  
+   
+</body>
+@code {
+    private Shelter[] shelterdata =  Array.Empty<Shelter>();
+   
+    protected override async Task OnInitializedAsync()
+    {
+        shelterdata = await Http.GetFromJsonAsync<Shelter[]>("ShelterData");
+      
+    }
+}

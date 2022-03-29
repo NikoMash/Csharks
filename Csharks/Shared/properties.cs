@@ -9,9 +9,9 @@ namespace Csharks.Shared
     public class properties
     //Defining members
     {
-        public string cvr_navn, navn, beskrivelse, lang_beskrivelse, handicap, vejnavn, postnr_by;
-        public char kontakt_ved, husnr;
-        public int antal_pl, postnr;
+        public string cvr_navn, navn, beskrivelse, lang_beskrivelse, handicap, vejnavn, postnr_by, husnr, postnr;
+        public char kontakt_ved;
+        public int antal_pl;
 
         //constructor 
         public properties()
@@ -20,7 +20,7 @@ namespace Csharks.Shared
         }
 
         //constructor 
-        public properties(string cn, string n, string b, string lb, string h, string vn, string pnb, char kv, char hn, int ap, int pn)
+        public properties(string cn, string n, string b, string lb, string h, string vn, string pnb, char kv, string hn, int ap, string pn)
         {
             cvr_navn = cn;
             navn = n;
@@ -75,7 +75,7 @@ namespace Csharks.Shared
             get { return kontakt_ved; }
             set { kontakt_ved = value;}
         }
-        public char Husnr
+        public string Husnr
         {
             get { return husnr; }
             set { husnr = value; }
@@ -85,7 +85,7 @@ namespace Csharks.Shared
             get { return antal_pl; }
             set { antal_pl = value; }
         }
-        public int Postnr
+        public string Postnr
         {
             get { return postnr; }
             set { postnr = value; }
