@@ -9,7 +9,8 @@ namespace Csharks.Shared
 {
     public class shelter
     {
-        public ObjectId id { get; set; }
+        public objectId id { get; set; }
+        public geometry? Geometry { get; set; }
         public properties? Properties { get; set; }
     }
 }

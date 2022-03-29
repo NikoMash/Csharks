@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Csharks.Shared
 {
-    internal class properties
+    public class properties
     //Defining members
     {
         public string cvr_navn, navn, beskrivelse, lang_beskrivelse, handicap, vejnavn, postnr_by;
