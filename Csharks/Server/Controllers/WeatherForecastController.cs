@@ -1,6 +1,8 @@
 ﻿using Csharks.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using MongoDB.Bson;
+using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,10 +14,7 @@ namespace Csharks.Server.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
+
 
         private readonly ILogger<WeatherForecastController> _logger;
 
@@ -25,16 +24,22 @@ namespace Csharks.Server.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        public IEnumerable<Shelter> Get()
         {
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            var client = new MongoClient("mongodb+srv://miniprojekt:MEt76yJQK8a8wlxy@miniprojektcluster.rbz0f.mongodb.net/test");
+            var database = client.GetDatabase("shelterdb");
+            var collection = database.GetCollection<BsonDocument>("shelters");
+            var list = collection.Find(_ => true).ToListAsync();
+          
+            List<Shelter> shelters = new List<Shelter>();
+            foreach (var item in list)
             {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
+                Shelter shelter = new Shelter();
+                shelter.Id = item["_id"].ToString();
+                shelter.Properties.Cvr_navn = item["cvr_navn"].ToString();
+                shelter.Properties.Navn = item["navn"].ToString();
+            };
+            return shelters;
         }
     }
 }

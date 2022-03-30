@@ -8,11 +8,11 @@
         @foreach (var shelter in shelterdata)
             {
               
-                     <p>Shelter Prop: @shelter.Properties</p>  
+                     <p>Shelter Prop: @shelter.Properties.Antal_pl</p>  
                
                              
             }
-    @foreach (var place in shelterdata)
+        @foreach (var place in shelterdata)
     {
         
             <p>Shelter place: @place.Geometry.Coordinates</p>
