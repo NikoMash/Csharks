@@ -1,30 +1,25 @@
 ﻿@page "/Shelter forside"
-@using Csharks;
 @using Csharks.Shared;
 @inject HttpClient Http
-<head>
+<h3>Shelter booking</h3>
+<p>Velkommen</p>  
 
-</head>
-<body>
-    <h1>Shelter booking</h1>
-    <p>Velkommen</p>  
-   <ul>
-        @foreach (var shelters in shelterdata)
+  <ul>
+        @foreach (var shelter in shelterdata)
             {
-                <tr>
-                    <td>@shelters.Id</td>
-                    <td>@shelters.Geometry</td>
-                    <td>@shelters.Properties</td>
-                </tr>
+                <li>
+                    <input @bind = "shelter.Id"/>          
+                    <input @bind = "shelter.Geometry"/>
+                    <input @bind = "shelter.Properties"/>
+                </li>              
             }
-   </ul>
-</body>
+  </ul>
 @code {
     private Shelter[] shelterdata = Array.Empty<Shelter>();
    
     protected override async Task OnInitializedAsync()
     {
-        shelterdata = await Http.GetFromJsonAsync<Shelter[]>("ShelterData");
+        shelterdata = await Http.GetFromJsonAsync <Shelter[]>("ShelterData");
       
     }
 }

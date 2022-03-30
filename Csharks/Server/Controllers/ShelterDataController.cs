@@ -22,7 +22,7 @@ namespace Csharks.Server.Controllers
         public IEnumerable<Shelter> Get()
         {
             Shelter[] shelters;
-            using (StreamReader r = new StreamReader("booking.json"))
+            using (StreamReader r = new StreamReader("shelters.json"))
             {
                 string json = r.ReadToEnd();
                 shelters = JsonConvert.DeserializeObject<Shelter[]>(json);
