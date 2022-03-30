@@ -7,13 +7,17 @@
   
         @foreach (var shelter in shelterdata)
             {
+              
+                     <p>Shelter Prop: @shelter.Properties</p>  
                
-                     <p>Shelter ID: @shelter.Id</p>    
-                    <input @bind = "shelter.Geometry"/>
-                    <input @bind = "shelter.Properties"/>
                              
             }
-  
+    @foreach (var place in shelterdata)
+    {
+        
+            <p>Shelter place: @place.Geometry.Coordinates</p>
+        
+    }
 @code {
     private Shelter[] shelterdata = Array.Empty<Shelter>();
    
