@@ -4,16 +4,16 @@
 <h3>Shelter booking</h3>
 <p>Velkommen</p>  
 
-  <ul>
+  
         @foreach (var shelter in shelterdata)
             {
-                <li>
-                    <input @bind = "shelter.Id"/>          
+               
+                     <p>Shelter ID: @shelter.Id</p>    
                     <input @bind = "shelter.Geometry"/>
                     <input @bind = "shelter.Properties"/>
-                </li>              
+                             
             }
-  </ul>
+  
 @code {
     private Shelter[] shelterdata = Array.Empty<Shelter>();
    

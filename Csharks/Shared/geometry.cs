@@ -7,36 +7,15 @@ using System.Threading.Tasks;
 
 namespace Csharks.Shared
 {
-    [TypeConverter(typeof(Geometry))]
-
     public class Geometry
     {
-        public string type;
-        public double[][] coordinates;
 
-        public Geometry()
-        {
-
-        }
-
-        public Geometry(string t, double[][] c)
-        {
-            type = t;
-            coordinates = c;
-        }
-
-        public string Type
-        {
-            get { return type; }
-            set { type = value; }
-        }
-
-        public double[][] Coordinates
-        {
-            get { return coordinates; }
-            set { coordinates = value; }
-        }
+        public string? Type { get; set; }
+        public double[][]? Coordinates { get; set; }
     }
+}
+     
+
    
 
-}
+
