@@ -12,25 +12,25 @@ namespace Csharks.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class ShelterController : ControllerBase
     {
 
 
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<ShelterController> _logger;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public ShelterController(ILogger<ShelterController> logger)
         {
             _logger = logger;
         }
 
         [HttpGet]
-        public IEnumerable<Shelter> Get()
+        public async Task<IEnumerable<Shelter>> GetAsync()
         {
             var client = new MongoClient("mongodb+srv://miniprojekt:MEt76yJQK8a8wlxy@miniprojektcluster.rbz0f.mongodb.net/test");
             var database = client.GetDatabase("shelterdb");
             var collection = database.GetCollection<BsonDocument>("shelters");
-            var list = collection.Find(_ => true).ToListAsync();
-          
+            var list = await collection.Find(_ => true).ToListAsync();
+
             List<Shelter> shelters = new List<Shelter>();
             foreach (var item in list)
             {
@@ -38,7 +38,9 @@ namespace Csharks.Server.Controllers
                 shelter.Id = item["_id"].ToString();
                 shelter.Properties.Cvr_navn = item["cvr_navn"].ToString();
                 shelter.Properties.Navn = item["navn"].ToString();
+               
             };
+          
             return shelters;
         }
     }

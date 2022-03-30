@@ -6,18 +6,21 @@ using System.Threading.Tasks;
 using Csharks.Shared;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
-
-
+using Newtonsoft.Json;
 
 namespace Csharks.Shared
 {
    
     public class Shelter
     {
+        
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public ObjectId  Id { get; set; }
+        public string Id { get; set; }
+
         public Geometry? Geometry { get; set; }
         public Properties? Properties { get; set; }
     }
+
+ 
 }
