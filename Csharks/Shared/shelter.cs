@@ -20,7 +20,16 @@ namespace Csharks.Shared
 
         public Geometry? Geometry { get; set; }
         public Properties? Properties { get; set; }
+        public Shelter()
+        {
+            Properties = new Properties();
+        }
+
+
+      
+
+
     }
 
- 
+
 }

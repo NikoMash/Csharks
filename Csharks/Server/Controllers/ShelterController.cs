@@ -31,17 +31,19 @@ namespace Csharks.Server.Controllers
             var collection = database.GetCollection<BsonDocument>("shelters");
             var list = await collection.Find(_ => true).ToListAsync();
 
-            List<Shelter> shelters = new List<Shelter>();
+            List<Shelter> shelterList = new List<Shelter>();
             foreach (var item in list)
             {
                 Shelter shelter = new Shelter();
-                shelter.Id = item["_id"].ToString();
-                shelter.Properties.Cvr_navn = item["cvr_navn"].ToString();
-                shelter.Properties.Navn = item["navn"].ToString();
-               
-            };
-          
-            return shelters;
+                {
+                    shelter.Id = item["_id"].ToString();
+                    var p = item["properties"];
+                    shelter.Properties.Navn = p["navn"].ToString();
+                };
+                shelterList.Add(shelter);
+
+            }
+            return shelterList;
         }
     }
 }
