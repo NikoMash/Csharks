@@ -2,9 +2,15 @@
 @using Csharks.Shared
 @inject HttpClient Http
 
-<h1>Weather forecast</h1>
+<h1>Shelter</h1>
 
-<p>This component demonstrates fetching data from the server.</p>
+<p>Hvilket shelter vil du booke</p>
+<table class="row">
+        <tbody>
+            <lable for="Fuldenavn">Fulde navn</lable>
+            <td><input form="Fuldenavn"/></td>
+        </tbody>
+        </table>
 
 
 
@@ -17,10 +23,11 @@
         <tbody>
 
         
-            @foreach (var shelter in nybooking)
+            @foreach (var shelter in shelters)
             {
                 <tr>
                     <td>@shelter.Properties.Navn</td>
+                    <Input typeof="button"@onclick="Booking"/>
                 </tr>
             }
            
@@ -29,6 +36,13 @@
 }
 
 @code {
+    private Shelter[] shelters = Array.Empty<Shelter>();
 
+    protected override async Task OnInitializedAsync()
+    {
+        shelters = await Http.GetFromJsonAsync<Shelter[]>("Shelter");
+    }
+
+    private Booking[]
 
 }
