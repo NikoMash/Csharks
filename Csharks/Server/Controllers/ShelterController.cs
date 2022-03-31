@@ -43,7 +43,9 @@ namespace Csharks.Server.Controllers
                 shelterList.Add(shelter);
 
             }
+
             return shelterList;
+
         }
     }
 }

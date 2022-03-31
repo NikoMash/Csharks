@@ -11,27 +11,24 @@
     <table class="table">
         <thead>
             <tr>
-                <th>Navn</th>
+                <th>Shelter</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var shelter in shelters)
+
+        
+            @foreach (var shelter in nybooking)
             {
                 <tr>
-                   
                     <td>@shelter.Properties.Navn</td>
                 </tr>
             }
+           
         </tbody>
     </table>
 }
 
 @code {
-    private Shelter[] shelters = Array.Empty<Shelter>();
 
-    protected override async Task OnInitializedAsync()
-    {
-        shelters = await Http.GetFromJsonAsync<Shelter[]>("Shelter");
-    }
 
 }
