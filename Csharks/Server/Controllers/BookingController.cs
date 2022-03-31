@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using MongoDB.Driver;
 using MongoDB.Bson;
+using System;
 
 namespace Csharks.Server.Controllers
 {
@@ -25,16 +26,23 @@ namespace Csharks.Server.Controllers
             var client = new MongoClient("mongodb+srv://miniprojekt:MEt76yJQK8a8wlxy@miniprojektcluster.rbz0f.mongodb.net/test");
             var database = client.GetDatabase("shelterdb");
             var collection = database.GetCollection<BsonDocument>("booking");
-            var document = new BsonDocument
+            try
             {
-                {"_id", nybooking.Id},
+                var document = new BsonDocument
+            {
+                //{"_id", nybooking.Id},
                 {"navn", nybooking.Fuldenavn},
-                {"t_nr", nybooking.Telefon_nr},
-                {"start_dato", nybooking.Start_Dato},
-                {"slut_dato", nybooking.Slut_Dato},
+                //{"t_nr", nybooking.Telefon_nr},
+                //{"start_dato", nybooking.Start_Dato},
+                //{"slut_dato", nybooking.Slut_Dato},
                 {"shelter_id", nybooking.Shelter_id },
             };
-            collection.InsertOneAsync(document);
+                collection.InsertOneAsync(document);
+            }
+            catch(Exception ex)
+            {
+                _logger.LogError(ex.Message);
+            }
             return Ok(nybooking); 
         }
     }

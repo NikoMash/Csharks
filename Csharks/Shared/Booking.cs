@@ -13,6 +13,7 @@ namespace Csharks.Shared
         [BsonElement("_id")]
         public string Id { get; set; }
 
+
         [BsonElement("shelter_id")]
         public string Shelter_id { get; set; }
 

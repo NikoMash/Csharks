@@ -4,15 +4,9 @@
 
 <h1>Shelter</h1>
 
-<p>Hvilket shelter vil du booke</p>
-<table class="row">
-        <tbody>
-            <lable for="Fuldenavn">Fulde navn</lable>
-            <td><input form="Fuldenavn"/></td>
-        </tbody>
-        </table>
+<p>Hvilket shelter vil du booke?</p>
 
-
+<input form="Name" @bind="@nybooking.Fuldenavn"/>
 
     <table class="table">
         <thead>
@@ -26,8 +20,9 @@
             @foreach (var shelter in shelters)
             {
                 <tr>
+                    <td><button @onclick="()=>save(shelter.Id)">Book</button></td>
                     <td>@shelter.Properties.Navn</td>
-                    <Input typeof="button"@onclick="Booking"/>
+                    
                 </tr>
             }
            
@@ -36,13 +31,24 @@
 }
 
 @code {
+    Booking nybooking = new Booking();
+
+    private async Task save(string id)
+    {
+            nybooking.Shelter_id = id;
+        var response = await Http.PutAsJsonAsync<Booking>("Booking", nybooking);
+
+    }
+
     private Shelter[] shelters = Array.Empty<Shelter>();
 
     protected override async Task OnInitializedAsync()
     {
         shelters = await Http.GetFromJsonAsync<Shelter[]>("Shelter");
     }
+    
+    
 
-    private Booking[]
+    
 
 }
