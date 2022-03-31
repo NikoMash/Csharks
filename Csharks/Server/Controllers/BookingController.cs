@@ -30,9 +30,8 @@ namespace Csharks.Server.Controllers
             {
                 var document = new BsonDocument
             {
-                //{"_id", nybooking.Id},
                 {"navn", nybooking.Fuldenavn},
-                //{"t_nr", nybooking.Telefon_nr},
+                {"t_nr", nybooking.Telefon_nr},
                 //{"start_dato", nybooking.Start_Dato},
                 //{"slut_dato", nybooking.Slut_Dato},
                 {"shelter_id", nybooking.Shelter_id },
