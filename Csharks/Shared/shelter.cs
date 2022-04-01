@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Csharks.Shared;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
-using Newtonsoft.Json;
 
 namespace Csharks.Shared
 {
@@ -18,7 +17,6 @@ namespace Csharks.Shared
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
-        public Geometry? Geometry { get; set; }
         public Properties? Properties { get; set; }
         public Shelter()
         {

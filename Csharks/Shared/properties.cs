@@ -12,19 +12,7 @@ namespace Csharks.Shared
 
             public string Navn { get; set; }
 
-            public string Lang_beskrivelse { get; set; }
-
-            public string Handicap { get; set; }
-
-            public string Vejnavn { get; set; }
-
-            public char Kontakt_ved { get; set; }
-
-            public string Husnr { get; set; }
-
-            public int Antal_pl { get; set; }
-
-            public string Postnr_by { get; set; }
+          
         }
 
     }
