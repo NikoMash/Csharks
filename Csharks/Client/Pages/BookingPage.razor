@@ -1,0 +1,25 @@
+﻿@page "/Shelter forside"
+@using Csharks.Shared;
+@inject HttpClient Http
+<h3>Shelter booking</h3>
+<p>Velkommen</p>  
+
+  <body>
+        @foreach (var booking in bookingdata)
+            {
+             <p>shelter id: @booking.Shelter_id</p>  
+             <p>Booking navn: @booking.Fuldenavn</p>  
+             <p>Telf: @booking.Telefon_nr</p>
+             <p>Dato start: @booking.Start_Dato</p>
+             <p>Dato slut: @booking.Slut_Dato</p>
+            }
+  </body>
+@code {
+    private Booking[] bookingdata = Array.Empty<Booking>();
+   
+    protected override async Task OnInitializedAsync()
+    {
+        bookingdata = await Http.GetFromJsonAsync <Booking[]>("BookingData");
+      
+    }
+}

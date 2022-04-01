@@ -32,8 +32,8 @@ namespace Csharks.Server.Controllers
             {
                 {"navn", nybooking.Fuldenavn},
                 {"t_nr", nybooking.Telefon_nr},
-                //{"start_dato", nybooking.Start_Dato},
-                //{"slut_dato", nybooking.Slut_Dato},
+                {"start_dato", nybooking.Start_Dato},
+                {"slut_dato", nybooking.Slut_Dato},
                 {"shelter_id", nybooking.Shelter_id },
             };
                 collection.InsertOneAsync(document);

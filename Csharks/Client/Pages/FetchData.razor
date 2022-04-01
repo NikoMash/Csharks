@@ -4,16 +4,42 @@
 
 <h1>Shelter</h1>
 
-<p>Hvilket shelter vil du booke?</p>
+<th>Indtast nødvendig info:</th>
+<div class=" row">
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="Fuldenavn"> Fulde navn</label>
+            <input form="Name" @bind="@nybooking.Fuldenavn" />
+        </div>
+    </div>
 
-<input form="Name" @bind="@nybooking.Fuldenavn"/>
-<input form="Telf" @bind="@nybooking.Telefon_nr"/>
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="Telefonnr"> Telefon nummer</label>
+            <input form="Telf" @bind="@nybooking.Telefon_nr" />
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="StartDato">Start Dato</label>
+            <input @bind="@nybooking.Start_Dato" format-value="yyyy-MM-dd" />
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="form-group">
+            <label for="SlutDato">Slut Dato</label>
+            <input @bind="@nybooking.Slut_Dato" format-value="yyyy-MM-dd" />
+        </div>
+    </div>
+</div>
 
 
     <table class="table">
         <thead>
             <tr>
-                <th>Shelter</th>
+                <th>Hvilket shelter vil du booke?</th>
             </tr>
         </thead>
         <tbody>
@@ -22,8 +48,9 @@
             @foreach (var shelter in shelters)
             {
                 <tr>
-                    <td><button @onclick="()=>save(shelter.Id)">Book</button></td>
                     <td>@shelter.Properties.Navn</td>
+                    <td><button class="btn btn-primary"@onclick="()=>save(shelter.Id)">Book</button></td>
+
                     
                 </tr>
             }
@@ -33,14 +60,17 @@
 }
 
 @code {
+
     Booking nybooking = new Booking();
 
     private async Task save(string id)
     {
-            nybooking.Shelter_id = id;
+        nybooking.Shelter_id = id;
         var response = await Http.PutAsJsonAsync<Booking>("Booking", nybooking);
 
     }
+
+    private DateTime StartDate { get; set; } = new DateTime(2020, 1, 1);
 
     private Shelter[] shelters = Array.Empty<Shelter>();
 
