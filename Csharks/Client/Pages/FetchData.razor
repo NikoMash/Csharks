@@ -23,14 +23,14 @@
     <div class="col-md-6">
         <div class="form-group">
             <label for="StartDato">Start Dato</label>
-            <input @bind="@nybooking.Start_Dato" format-value="yyyy-MM-dd" />
+            <input type="date" @bind="@nybooking.Start_Dato" />
         </div>
     </div>
 
     <div class="col-md-6">
         <div class="form-group">
             <label for="SlutDato">Slut Dato</label>
-            <input @bind="@nybooking.Slut_Dato" format-value="yyyy-MM-dd" />
+            <input type="date" @bind="@nybooking.Slut_Dato" />
         </div>
     </div>
 </div>
@@ -48,6 +48,7 @@
             @foreach (var shelter in shelters)
             {
                 <tr>
+                    <td>@shelter.Properties.Cvr_navn</td>
                     <td>@shelter.Properties.Navn</td>
                     <td><button class="btn btn-primary"@onclick="()=>save(shelter.Id, shelter.Properties.Navn)">Book</button></td>
 
@@ -71,7 +72,9 @@
 
     }
 
-    private DateTime StartDate { get; set; } = new DateTime(2020, 1, 1);
+    private DateTime StartDate = DateTime.Now;
+    private DateTime SlutDate = DateTime.Now;
+
 
     private Shelter[] shelters = Array.Empty<Shelter>();
 

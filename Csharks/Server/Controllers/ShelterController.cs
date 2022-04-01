@@ -39,6 +39,7 @@ namespace Csharks.Server.Controllers
                     shelter.Id = item["_id"].ToString();
                     var p = item["properties"];
                     shelter.Properties.Navn = p["navn"].ToString();
+                    shelter.Properties.Cvr_navn = p["cvr_navn"].ToString();
                 };
                 shelterList.Add(shelter);
 
