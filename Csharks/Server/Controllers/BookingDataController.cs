@@ -36,6 +36,8 @@ namespace Csharks.Server.Controllers
                 Booking bookings = new Booking();
                 {
                     bookings.Shelter_id = item["_id"].ToString();
+
+                    bookings.Shelter_navn = item["shelter_navn"].ToString();
   
                     bookings.Fuldenavn = item["navn"].ToString();
 

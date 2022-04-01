@@ -49,7 +49,7 @@
             {
                 <tr>
                     <td>@shelter.Properties.Navn</td>
-                    <td><button class="btn btn-primary"@onclick="()=>save(shelter.Id)">Book</button></td>
+                    <td><button class="btn btn-primary"@onclick="()=>save(shelter.Id, shelter.Properties.Navn)">Book</button></td>
 
                     
                 </tr>
@@ -63,9 +63,10 @@
 
     Booking nybooking = new Booking();
 
-    private async Task save(string id)
+    private async Task save(string id, string navn)
     {
         nybooking.Shelter_id = id;
+        nybooking.Shelter_navn = navn;
         var response = await Http.PutAsJsonAsync<Booking>("Booking", nybooking);
 
     }
