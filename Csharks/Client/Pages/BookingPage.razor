@@ -7,11 +7,13 @@
   <body>
         @foreach (var booking in bookingdata)
             {
-             <p>shelter id: @booking.Shelter_id</p>  
-             <p>Booking navn: @booking.Fuldenavn</p>  
-             <p>Telf: @booking.Telefon_nr</p>
-             <p>Dato start: @booking.Start_Dato</p>
-             <p>Dato slut: @booking.Slut_Dato</p>
+        <li>
+             <p>Hej @booking.Fuldenavn</p> 
+             <p>Du har på tlf: @booking.Telefon_nr booket shelter @booking.Shelter_id</p>
+             <p>Fra: @booking.Start_Dato Til: @booking.Slut_Dato</p>
+             <p>Hav en god tur!</p>
+             
+             </li>
             }
   </body>
 @code {
