@@ -20,16 +20,19 @@
         </div>
     </div>
 
+
+
     <div class="col-md-6">
         <div class="form-group">
-            <label for="StartDato">Start Dato</label>
-            <input type="date" @bind="@nybooking.Start_Dato" />
+            <label for="Start Dato">Start Dato</label>
+            <input type="date" @bind="@nybooking.Start_Dato" placeholder=@DateTime.Now />
+            
         </div>
     </div>
 
     <div class="col-md-6">
         <div class="form-group">
-            <label for="SlutDato">Slut Dato</label>
+            <label for="Slut Dato">Slut Dato</label>
             <input type="date" @bind="@nybooking.Slut_Dato" />
         </div>
     </div>
@@ -63,16 +66,19 @@
 @code {
 
     Booking nybooking = new Booking();
+    
+    
 
     private async Task save(string id, string navn)
     {
+       
         nybooking.Shelter_id = id;
         nybooking.Shelter_navn = navn;
         var response = await Http.PutAsJsonAsync<Booking>("Booking", nybooking);
 
     }
 
-   
+
 
 
     private Shelter[] shelters = Array.Empty<Shelter>();
@@ -81,7 +87,12 @@
     {
         shelters = await Http.GetFromJsonAsync<Shelter[]>("Shelter");
     }
-    
+   
+
+    }
+
+
+
     
 
     
